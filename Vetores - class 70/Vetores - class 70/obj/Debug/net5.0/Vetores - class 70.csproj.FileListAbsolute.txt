@@ -1,0 +1,15 @@
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\bin\Debug\net5.0\Vetores - class 70.exe
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\bin\Debug\net5.0\Vetores - class 70.deps.json
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\bin\Debug\net5.0\Vetores - class 70.runtimeconfig.json
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\bin\Debug\net5.0\Vetores - class 70.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\bin\Debug\net5.0\Vetores - class 70.dll
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\bin\Debug\net5.0\ref\Vetores - class 70.dll
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\bin\Debug\net5.0\Vetores - class 70.pdb
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\obj\Debug\net5.0\Vetores - class 70.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\obj\Debug\net5.0\Vetores - class 70.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\obj\Debug\net5.0\Vetores - class 70.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\obj\Debug\net5.0\Vetores - class 70.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\obj\Debug\net5.0\Vetores - class 70.dll
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\obj\Debug\net5.0\ref\Vetores - class 70.dll
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\obj\Debug\net5.0\Vetores - class 70.pdb
+C:\Users\dipeo\source\repos\Vetores - class 70\Vetores - class 70\obj\Debug\net5.0\Vetores - class 70.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\bin\Debug\net5.0\ExercicioClasse4.exe
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\bin\Debug\net5.0\ExercicioClasse4.deps.json
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\bin\Debug\net5.0\ExercicioClasse4.runtimeconfig.json
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\bin\Debug\net5.0\ExercicioClasse4.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\bin\Debug\net5.0\ExercicioClasse4.dll
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\bin\Debug\net5.0\ref\ExercicioClasse4.dll
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\bin\Debug\net5.0\ExercicioClasse4.pdb
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\obj\Debug\net5.0\ExercicioClasse4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\obj\Debug\net5.0\ExercicioClasse4.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\obj\Debug\net5.0\ExercicioClasse4.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\obj\Debug\net5.0\ExercicioClasse4.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\obj\Debug\net5.0\ExercicioClasse4.dll
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\obj\Debug\net5.0\ref\ExercicioClasse4.dll
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\obj\Debug\net5.0\ExercicioClasse4.pdb
+C:\Users\dipeo\source\repos\ExercicioClasse4\ExercicioClasse4\obj\Debug\net5.0\ExercicioClasse4.genruntimeconfig.cache

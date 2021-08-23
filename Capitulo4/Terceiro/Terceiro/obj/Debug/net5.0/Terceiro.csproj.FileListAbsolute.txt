@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\bin\Debug\net5.0\Terceiro.exe
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\bin\Debug\net5.0\Terceiro.deps.json
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\bin\Debug\net5.0\Terceiro.runtimeconfig.json
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\bin\Debug\net5.0\Terceiro.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\bin\Debug\net5.0\Terceiro.dll
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\bin\Debug\net5.0\ref\Terceiro.dll
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\bin\Debug\net5.0\Terceiro.pdb
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\obj\Debug\net5.0\Terceiro.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\obj\Debug\net5.0\Terceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\obj\Debug\net5.0\Terceiro.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\obj\Debug\net5.0\Terceiro.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\obj\Debug\net5.0\Terceiro.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\obj\Debug\net5.0\Terceiro.dll
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\obj\Debug\net5.0\ref\Terceiro.dll
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\obj\Debug\net5.0\Terceiro.pdb
+C:\Users\dipeo\source\repos\Terceiro\Terceiro\obj\Debug\net5.0\Terceiro.genruntimeconfig.cache

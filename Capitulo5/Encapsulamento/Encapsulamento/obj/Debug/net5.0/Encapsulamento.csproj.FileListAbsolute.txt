@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.exe
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.deps.json
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.json
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.dll
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\bin\Debug\net5.0\ref\Encapsulamento.dll
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.pdb
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.dll
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\obj\Debug\net5.0\ref\Encapsulamento.dll
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.pdb
+C:\Users\dipeo\source\repos\Capitulo5\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Nullable\Nullable\bin\Debug\net5.0\Nullable.exe
+C:\Users\dipeo\source\repos\Nullable\Nullable\bin\Debug\net5.0\Nullable.deps.json
+C:\Users\dipeo\source\repos\Nullable\Nullable\bin\Debug\net5.0\Nullable.runtimeconfig.json
+C:\Users\dipeo\source\repos\Nullable\Nullable\bin\Debug\net5.0\Nullable.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Nullable\Nullable\bin\Debug\net5.0\Nullable.dll
+C:\Users\dipeo\source\repos\Nullable\Nullable\bin\Debug\net5.0\ref\Nullable.dll
+C:\Users\dipeo\source\repos\Nullable\Nullable\bin\Debug\net5.0\Nullable.pdb
+C:\Users\dipeo\source\repos\Nullable\Nullable\obj\Debug\net5.0\Nullable.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Nullable\Nullable\obj\Debug\net5.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Nullable\Nullable\obj\Debug\net5.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Nullable\Nullable\obj\Debug\net5.0\Nullable.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Nullable\Nullable\obj\Debug\net5.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Nullable\Nullable\obj\Debug\net5.0\Nullable.dll
+C:\Users\dipeo\source\repos\Nullable\Nullable\obj\Debug\net5.0\ref\Nullable.dll
+C:\Users\dipeo\source\repos\Nullable\Nullable\obj\Debug\net5.0\Nullable.pdb
+C:\Users\dipeo\source\repos\Nullable\Nullable\obj\Debug\net5.0\Nullable.genruntimeconfig.cache

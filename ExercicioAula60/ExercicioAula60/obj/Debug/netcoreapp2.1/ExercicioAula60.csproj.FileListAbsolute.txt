@@ -1,0 +1,13 @@
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\bin\Debug\netcoreapp2.1\ExercicioAula60.deps.json
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\bin\Debug\netcoreapp2.1\ExercicioAula60.runtimeconfig.json
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\bin\Debug\netcoreapp2.1\ExercicioAula60.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\bin\Debug\netcoreapp2.1\ExercicioAula60.dll
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\bin\Debug\netcoreapp2.1\ExercicioAula60.pdb
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\obj\Debug\netcoreapp2.1\ExercicioAula60.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\obj\Debug\netcoreapp2.1\ExercicioAula60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\obj\Debug\netcoreapp2.1\ExercicioAula60.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\obj\Debug\netcoreapp2.1\ExercicioAula60.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\obj\Debug\netcoreapp2.1\ExercicioAula60.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\obj\Debug\netcoreapp2.1\ExercicioAula60.dll
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\obj\Debug\netcoreapp2.1\ExercicioAula60.pdb
+C:\Users\dipeo\source\repos\ExercicioAula60\ExercicioAula60\obj\Debug\netcoreapp2.1\ExercicioAula60.genruntimeconfig.cache

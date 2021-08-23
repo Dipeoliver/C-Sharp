@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.exe
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.deps.json
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.json
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.dll
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\ref\Primeiro.dll
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.pdb
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.dll
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\ref\Primeiro.dll
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.pdb
+C:\Users\dipeo\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.genruntimeconfig.cache

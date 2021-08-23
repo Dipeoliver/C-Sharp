@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\bin\Debug\net5.0\Exercicio Vetores class 71.exe
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\bin\Debug\net5.0\Exercicio Vetores class 71.deps.json
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\bin\Debug\net5.0\Exercicio Vetores class 71.runtimeconfig.json
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\bin\Debug\net5.0\Exercicio Vetores class 71.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\bin\Debug\net5.0\Exercicio Vetores class 71.dll
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\bin\Debug\net5.0\ref\Exercicio Vetores class 71.dll
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\bin\Debug\net5.0\Exercicio Vetores class 71.pdb
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\obj\Debug\net5.0\Exercicio Vetores class 71.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\obj\Debug\net5.0\Exercicio Vetores class 71.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\obj\Debug\net5.0\Exercicio Vetores class 71.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\obj\Debug\net5.0\Exercicio Vetores class 71.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\obj\Debug\net5.0\Exercicio Vetores class 71.dll
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\obj\Debug\net5.0\ref\Exercicio Vetores class 71.dll
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\obj\Debug\net5.0\Exercicio Vetores class 71.pdb
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\obj\Debug\net5.0\Exercicio Vetores class 71.genruntimeconfig.cache
+C:\Users\dipeo\source\repos\Exercicio Vetores class 71\Exercicio Vetores class 71\obj\Debug\net5.0\Exercicio Vetores class 71.csproj.AssemblyReference.cache

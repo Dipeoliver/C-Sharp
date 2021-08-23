@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Segundo\Segundo\bin\Debug\net5.0\Segundo.exe
+C:\Users\dipeo\source\repos\Segundo\Segundo\bin\Debug\net5.0\Segundo.deps.json
+C:\Users\dipeo\source\repos\Segundo\Segundo\bin\Debug\net5.0\Segundo.runtimeconfig.json
+C:\Users\dipeo\source\repos\Segundo\Segundo\bin\Debug\net5.0\Segundo.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Segundo\Segundo\bin\Debug\net5.0\Segundo.dll
+C:\Users\dipeo\source\repos\Segundo\Segundo\bin\Debug\net5.0\ref\Segundo.dll
+C:\Users\dipeo\source\repos\Segundo\Segundo\bin\Debug\net5.0\Segundo.pdb
+C:\Users\dipeo\source\repos\Segundo\Segundo\obj\Debug\net5.0\Segundo.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Segundo\Segundo\obj\Debug\net5.0\Segundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Segundo\Segundo\obj\Debug\net5.0\Segundo.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Segundo\Segundo\obj\Debug\net5.0\Segundo.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Segundo\Segundo\obj\Debug\net5.0\Segundo.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Segundo\Segundo\obj\Debug\net5.0\Segundo.dll
+C:\Users\dipeo\source\repos\Segundo\Segundo\obj\Debug\net5.0\ref\Segundo.dll
+C:\Users\dipeo\source\repos\Segundo\Segundo\obj\Debug\net5.0\Segundo.pdb
+C:\Users\dipeo\source\repos\Segundo\Segundo\obj\Debug\net5.0\Segundo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\bin\Debug\net5.0\ExercicioClasseEstatica.exe
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\bin\Debug\net5.0\ExercicioClasseEstatica.deps.json
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\bin\Debug\net5.0\ExercicioClasseEstatica.runtimeconfig.json
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\bin\Debug\net5.0\ExercicioClasseEstatica.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\bin\Debug\net5.0\ExercicioClasseEstatica.dll
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\bin\Debug\net5.0\ref\ExercicioClasseEstatica.dll
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\bin\Debug\net5.0\ExercicioClasseEstatica.pdb
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\obj\Debug\net5.0\ExercicioClasseEstatica.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\obj\Debug\net5.0\ExercicioClasseEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\obj\Debug\net5.0\ExercicioClasseEstatica.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\obj\Debug\net5.0\ExercicioClasseEstatica.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\obj\Debug\net5.0\ExercicioClasseEstatica.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\obj\Debug\net5.0\ExercicioClasseEstatica.dll
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\obj\Debug\net5.0\ref\ExercicioClasseEstatica.dll
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\obj\Debug\net5.0\ExercicioClasseEstatica.pdb
+C:\Users\dipeo\source\repos\ExercicioClasseEstatica\ExercicioClasseEstatica\obj\Debug\net5.0\ExercicioClasseEstatica.genruntimeconfig.cache

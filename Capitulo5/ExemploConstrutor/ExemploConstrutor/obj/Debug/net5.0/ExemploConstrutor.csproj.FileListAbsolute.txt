@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\bin\Debug\net5.0\ExemploConstrutor.exe
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\bin\Debug\net5.0\ExemploConstrutor.deps.json
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\bin\Debug\net5.0\ExemploConstrutor.runtimeconfig.json
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\bin\Debug\net5.0\ExemploConstrutor.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\bin\Debug\net5.0\ExemploConstrutor.dll
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\bin\Debug\net5.0\ref\ExemploConstrutor.dll
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\bin\Debug\net5.0\ExemploConstrutor.pdb
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\obj\Debug\net5.0\ExemploConstrutor.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\obj\Debug\net5.0\ExemploConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\obj\Debug\net5.0\ExemploConstrutor.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\obj\Debug\net5.0\ExemploConstrutor.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\obj\Debug\net5.0\ExemploConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\obj\Debug\net5.0\ExemploConstrutor.dll
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\obj\Debug\net5.0\ref\ExemploConstrutor.dll
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\obj\Debug\net5.0\ExemploConstrutor.pdb
+C:\Users\dipeo\source\repos\Capitulo5\ExemploConstrutor\ExemploConstrutor\obj\Debug\net5.0\ExemploConstrutor.genruntimeconfig.cache
