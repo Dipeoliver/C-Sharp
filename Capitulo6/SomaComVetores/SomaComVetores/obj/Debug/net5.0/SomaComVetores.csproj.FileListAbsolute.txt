@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\bin\Debug\net5.0\SomaComVetores.exe
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\bin\Debug\net5.0\SomaComVetores.deps.json
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\bin\Debug\net5.0\SomaComVetores.runtimeconfig.json
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\bin\Debug\net5.0\SomaComVetores.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\bin\Debug\net5.0\SomaComVetores.dll
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\bin\Debug\net5.0\ref\SomaComVetores.dll
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\bin\Debug\net5.0\SomaComVetores.pdb
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\obj\Debug\net5.0\SomaComVetores.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\obj\Debug\net5.0\SomaComVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\obj\Debug\net5.0\SomaComVetores.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\obj\Debug\net5.0\SomaComVetores.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\obj\Debug\net5.0\SomaComVetores.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\obj\Debug\net5.0\SomaComVetores.dll
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\obj\Debug\net5.0\ref\SomaComVetores.dll
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\obj\Debug\net5.0\SomaComVetores.pdb
+C:\Users\dipeo\source\repos\SomaComVetores\SomaComVetores\obj\Debug\net5.0\SomaComVetores.genruntimeconfig.cache

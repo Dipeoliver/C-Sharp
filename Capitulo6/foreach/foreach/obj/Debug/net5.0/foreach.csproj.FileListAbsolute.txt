@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\foreach\foreach\bin\Debug\net5.0\foreach.exe
+C:\Users\dipeo\source\repos\foreach\foreach\bin\Debug\net5.0\foreach.deps.json
+C:\Users\dipeo\source\repos\foreach\foreach\bin\Debug\net5.0\foreach.runtimeconfig.json
+C:\Users\dipeo\source\repos\foreach\foreach\bin\Debug\net5.0\foreach.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\foreach\foreach\bin\Debug\net5.0\foreach.dll
+C:\Users\dipeo\source\repos\foreach\foreach\bin\Debug\net5.0\ref\foreach.dll
+C:\Users\dipeo\source\repos\foreach\foreach\bin\Debug\net5.0\foreach.pdb
+C:\Users\dipeo\source\repos\foreach\foreach\obj\Debug\net5.0\foreach.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\foreach\foreach\obj\Debug\net5.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\foreach\foreach\obj\Debug\net5.0\foreach.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\foreach\foreach\obj\Debug\net5.0\foreach.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\foreach\foreach\obj\Debug\net5.0\foreach.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\foreach\foreach\obj\Debug\net5.0\foreach.dll
+C:\Users\dipeo\source\repos\foreach\foreach\obj\Debug\net5.0\ref\foreach.dll
+C:\Users\dipeo\source\repos\foreach\foreach\obj\Debug\net5.0\foreach.pdb
+C:\Users\dipeo\source\repos\foreach\foreach\obj\Debug\net5.0\foreach.genruntimeconfig.cache
