@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\bin\Debug\net5.0\Enumerações.exe
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\bin\Debug\net5.0\Enumerações.deps.json
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\bin\Debug\net5.0\Enumerações.runtimeconfig.json
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\bin\Debug\net5.0\Enumerações.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\bin\Debug\net5.0\Enumerações.dll
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\bin\Debug\net5.0\ref\Enumerações.dll
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\bin\Debug\net5.0\Enumerações.pdb
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\obj\Debug\net5.0\Enumerações.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\obj\Debug\net5.0\Enumerações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\obj\Debug\net5.0\Enumerações.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\obj\Debug\net5.0\Enumerações.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\obj\Debug\net5.0\Enumerações.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\obj\Debug\net5.0\Enumerações.dll
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\obj\Debug\net5.0\ref\Enumerações.dll
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\obj\Debug\net5.0\Enumerações.pdb
+C:\Users\dipeo\source\repos\Enumerações\Enumerações\obj\Debug\net5.0\Enumerações.genruntimeconfig.cache
