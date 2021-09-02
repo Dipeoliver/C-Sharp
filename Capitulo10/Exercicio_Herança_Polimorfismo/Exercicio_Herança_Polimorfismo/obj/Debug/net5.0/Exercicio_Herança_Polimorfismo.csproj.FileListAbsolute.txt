@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\bin\Debug\net5.0\Exercicio_Herança_Polimorfismo.exe
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\bin\Debug\net5.0\Exercicio_Herança_Polimorfismo.deps.json
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\bin\Debug\net5.0\Exercicio_Herança_Polimorfismo.runtimeconfig.json
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\bin\Debug\net5.0\Exercicio_Herança_Polimorfismo.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\bin\Debug\net5.0\Exercicio_Herança_Polimorfismo.dll
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\bin\Debug\net5.0\ref\Exercicio_Herança_Polimorfismo.dll
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\bin\Debug\net5.0\Exercicio_Herança_Polimorfismo.pdb
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\obj\Debug\net5.0\Exercicio_Herança_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\obj\Debug\net5.0\Exercicio_Herança_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\obj\Debug\net5.0\Exercicio_Herança_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\obj\Debug\net5.0\Exercicio_Herança_Polimorfismo.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\obj\Debug\net5.0\Exercicio_Herança_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\obj\Debug\net5.0\Exercicio_Herança_Polimorfismo.dll
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\obj\Debug\net5.0\ref\Exercicio_Herança_Polimorfismo.dll
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\obj\Debug\net5.0\Exercicio_Herança_Polimorfismo.pdb
+C:\Users\dipeo\source\repos\Exercicio_Herança_Polimorfismo\Exercicio_Herança_Polimorfismo\obj\Debug\net5.0\Exercicio_Herança_Polimorfismo.genruntimeconfig.cache

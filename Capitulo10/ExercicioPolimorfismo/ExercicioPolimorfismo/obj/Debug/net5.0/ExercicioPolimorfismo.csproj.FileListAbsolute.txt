@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.exe
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.deps.json
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.runtimeconfig.json
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.dll
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ref\ExercicioPolimorfismo.dll
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.pdb
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.dll
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ref\ExercicioPolimorfismo.dll
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.pdb
+C:\Users\dipeo\source\repos\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.genruntimeconfig.cache
