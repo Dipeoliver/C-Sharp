@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\bin\Debug\net5.0\ExercicioFinalCapitulo10.exe
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\bin\Debug\net5.0\ExercicioFinalCapitulo10.deps.json
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\bin\Debug\net5.0\ExercicioFinalCapitulo10.runtimeconfig.json
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\bin\Debug\net5.0\ExercicioFinalCapitulo10.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\bin\Debug\net5.0\ExercicioFinalCapitulo10.dll
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\bin\Debug\net5.0\ref\ExercicioFinalCapitulo10.dll
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\bin\Debug\net5.0\ExercicioFinalCapitulo10.pdb
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\obj\Debug\net5.0\ExercicioFinalCapitulo10.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\obj\Debug\net5.0\ExercicioFinalCapitulo10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\obj\Debug\net5.0\ExercicioFinalCapitulo10.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\obj\Debug\net5.0\ExercicioFinalCapitulo10.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\obj\Debug\net5.0\ExercicioFinalCapitulo10.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\obj\Debug\net5.0\ExercicioFinalCapitulo10.dll
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\obj\Debug\net5.0\ref\ExercicioFinalCapitulo10.dll
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\obj\Debug\net5.0\ExercicioFinalCapitulo10.pdb
+C:\Users\dipeo\source\repos\ExercicioFinalCapitulo10\ExercicioFinalCapitulo10\obj\Debug\net5.0\ExercicioFinalCapitulo10.genruntimeconfig.cache

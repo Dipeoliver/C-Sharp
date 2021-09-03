@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\bin\Debug\net5.0\Classe e métodos abstratos.exe
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\bin\Debug\net5.0\Classe e métodos abstratos.deps.json
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\bin\Debug\net5.0\Classe e métodos abstratos.runtimeconfig.json
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\bin\Debug\net5.0\Classe e métodos abstratos.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\bin\Debug\net5.0\Classe e métodos abstratos.dll
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\bin\Debug\net5.0\ref\Classe e métodos abstratos.dll
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\bin\Debug\net5.0\Classe e métodos abstratos.pdb
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\obj\Debug\net5.0\Classe e métodos abstratos.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\obj\Debug\net5.0\Classe e métodos abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\obj\Debug\net5.0\Classe e métodos abstratos.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\obj\Debug\net5.0\Classe e métodos abstratos.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\obj\Debug\net5.0\Classe e métodos abstratos.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\obj\Debug\net5.0\Classe e métodos abstratos.dll
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\obj\Debug\net5.0\ref\Classe e métodos abstratos.dll
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\obj\Debug\net5.0\Classe e métodos abstratos.pdb
+C:\Users\dipeo\source\repos\Classe e métodos abstratos\Classe e métodos abstratos\obj\Debug\net5.0\Classe e métodos abstratos.genruntimeconfig.cache
