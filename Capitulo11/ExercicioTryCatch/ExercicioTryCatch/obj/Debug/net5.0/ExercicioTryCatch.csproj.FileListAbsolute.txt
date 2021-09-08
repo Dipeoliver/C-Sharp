@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net5.0\ExercicioTryCatch.exe
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net5.0\ExercicioTryCatch.deps.json
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net5.0\ExercicioTryCatch.runtimeconfig.json
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net5.0\ExercicioTryCatch.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net5.0\ExercicioTryCatch.dll
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net5.0\ref\ExercicioTryCatch.dll
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\net5.0\ExercicioTryCatch.pdb
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net5.0\ExercicioTryCatch.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net5.0\ExercicioTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net5.0\ExercicioTryCatch.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net5.0\ExercicioTryCatch.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net5.0\ExercicioTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net5.0\ExercicioTryCatch.dll
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net5.0\ref\ExercicioTryCatch.dll
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net5.0\ExercicioTryCatch.pdb
+C:\Users\dipeo\source\repos\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\net5.0\ExercicioTryCatch.genruntimeconfig.cache
