@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\bin\Debug\net5.0\Exercicio Cap 13.exe
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\bin\Debug\net5.0\Exercicio Cap 13.deps.json
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\bin\Debug\net5.0\Exercicio Cap 13.runtimeconfig.json
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\bin\Debug\net5.0\Exercicio Cap 13.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\bin\Debug\net5.0\Exercicio Cap 13.dll
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\bin\Debug\net5.0\ref\Exercicio Cap 13.dll
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\bin\Debug\net5.0\Exercicio Cap 13.pdb
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\obj\Debug\net5.0\Exercicio Cap 13.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\obj\Debug\net5.0\Exercicio Cap 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\obj\Debug\net5.0\Exercicio Cap 13.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\obj\Debug\net5.0\Exercicio Cap 13.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\obj\Debug\net5.0\Exercicio Cap 13.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\obj\Debug\net5.0\Exercicio Cap 13.dll
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\obj\Debug\net5.0\ref\Exercicio Cap 13.dll
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\obj\Debug\net5.0\Exercicio Cap 13.pdb
+C:\Users\dipeo\source\repos\Exercicio Cap 13\Exercicio Cap 13\obj\Debug\net5.0\Exercicio Cap 13.genruntimeconfig.cache

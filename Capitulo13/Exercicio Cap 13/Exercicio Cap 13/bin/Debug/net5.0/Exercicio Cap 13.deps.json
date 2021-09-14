@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio Cap 13/1.0.0": {
+        "runtime": {
+          "Exercicio Cap 13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio Cap 13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

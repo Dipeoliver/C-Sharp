@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\FileIo\FileIo\bin\Debug\net5.0\FileIo.exe
+C:\Users\dipeo\source\repos\FileIo\FileIo\bin\Debug\net5.0\FileIo.deps.json
+C:\Users\dipeo\source\repos\FileIo\FileIo\bin\Debug\net5.0\FileIo.runtimeconfig.json
+C:\Users\dipeo\source\repos\FileIo\FileIo\bin\Debug\net5.0\FileIo.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\FileIo\FileIo\bin\Debug\net5.0\FileIo.dll
+C:\Users\dipeo\source\repos\FileIo\FileIo\bin\Debug\net5.0\ref\FileIo.dll
+C:\Users\dipeo\source\repos\FileIo\FileIo\bin\Debug\net5.0\FileIo.pdb
+C:\Users\dipeo\source\repos\FileIo\FileIo\obj\Debug\net5.0\FileIo.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\FileIo\FileIo\obj\Debug\net5.0\FileIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\FileIo\FileIo\obj\Debug\net5.0\FileIo.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\FileIo\FileIo\obj\Debug\net5.0\FileIo.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\FileIo\FileIo\obj\Debug\net5.0\FileIo.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\FileIo\FileIo\obj\Debug\net5.0\FileIo.dll
+C:\Users\dipeo\source\repos\FileIo\FileIo\obj\Debug\net5.0\ref\FileIo.dll
+C:\Users\dipeo\source\repos\FileIo\FileIo\obj\Debug\net5.0\FileIo.pdb
+C:\Users\dipeo\source\repos\FileIo\FileIo\obj\Debug\net5.0\FileIo.genruntimeconfig.cache
