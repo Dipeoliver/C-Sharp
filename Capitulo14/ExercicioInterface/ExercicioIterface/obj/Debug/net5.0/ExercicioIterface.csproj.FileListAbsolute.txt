@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\bin\Debug\net5.0\ExercicioIterface.exe
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\bin\Debug\net5.0\ExercicioIterface.deps.json
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\bin\Debug\net5.0\ExercicioIterface.runtimeconfig.json
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\bin\Debug\net5.0\ExercicioIterface.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\bin\Debug\net5.0\ExercicioIterface.dll
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\bin\Debug\net5.0\ref\ExercicioIterface.dll
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\bin\Debug\net5.0\ExercicioIterface.pdb
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\obj\Debug\net5.0\ExercicioIterface.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\obj\Debug\net5.0\ExercicioIterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\obj\Debug\net5.0\ExercicioIterface.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\obj\Debug\net5.0\ExercicioIterface.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\obj\Debug\net5.0\ExercicioIterface.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\obj\Debug\net5.0\ExercicioIterface.dll
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\obj\Debug\net5.0\ref\ExercicioIterface.dll
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\obj\Debug\net5.0\ExercicioIterface.pdb
+C:\Users\dipeo\source\repos\ExercicioIterface\ExercicioIterface\obj\Debug\net5.0\ExercicioIterface.genruntimeconfig.cache
