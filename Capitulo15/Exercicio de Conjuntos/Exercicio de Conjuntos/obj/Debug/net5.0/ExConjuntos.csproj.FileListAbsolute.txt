@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\bin\Debug\net5.0\ExConjuntos.exe
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\bin\Debug\net5.0\ExConjuntos.deps.json
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\bin\Debug\net5.0\ExConjuntos.runtimeconfig.json
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\bin\Debug\net5.0\ExConjuntos.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\bin\Debug\net5.0\ExConjuntos.dll
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\bin\Debug\net5.0\ref\ExConjuntos.dll
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\bin\Debug\net5.0\ExConjuntos.pdb
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\obj\Debug\net5.0\ExConjuntos.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\obj\Debug\net5.0\ExConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\obj\Debug\net5.0\ExConjuntos.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\obj\Debug\net5.0\ExConjuntos.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\obj\Debug\net5.0\ExConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\obj\Debug\net5.0\ExConjuntos.dll
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\obj\Debug\net5.0\ref\ExConjuntos.dll
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\obj\Debug\net5.0\ExConjuntos.pdb
+C:\Users\dipeo\source\repos\Exercicio de Conjuntos\Exercicio de Conjuntos\obj\Debug\net5.0\ExConjuntos.genruntimeconfig.cache

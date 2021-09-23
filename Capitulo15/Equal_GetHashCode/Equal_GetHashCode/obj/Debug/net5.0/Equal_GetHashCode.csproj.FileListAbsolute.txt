@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\bin\Debug\net5.0\Equal_GetHashCode.exe
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\bin\Debug\net5.0\Equal_GetHashCode.deps.json
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\bin\Debug\net5.0\Equal_GetHashCode.runtimeconfig.json
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\bin\Debug\net5.0\Equal_GetHashCode.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\bin\Debug\net5.0\Equal_GetHashCode.dll
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\bin\Debug\net5.0\ref\Equal_GetHashCode.dll
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\bin\Debug\net5.0\Equal_GetHashCode.pdb
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\obj\Debug\net5.0\Equal_GetHashCode.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\obj\Debug\net5.0\Equal_GetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\obj\Debug\net5.0\Equal_GetHashCode.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\obj\Debug\net5.0\Equal_GetHashCode.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\obj\Debug\net5.0\Equal_GetHashCode.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\obj\Debug\net5.0\Equal_GetHashCode.dll
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\obj\Debug\net5.0\ref\Equal_GetHashCode.dll
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\obj\Debug\net5.0\Equal_GetHashCode.pdb
+C:\Users\dipeo\source\repos\Equal_GetHashCode\Equal_GetHashCode\obj\Debug\net5.0\Equal_GetHashCode.genruntimeconfig.cache

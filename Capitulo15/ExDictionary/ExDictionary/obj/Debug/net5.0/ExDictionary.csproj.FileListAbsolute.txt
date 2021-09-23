@@ -1,0 +1,16 @@
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\bin\Debug\net5.0\ExDictionary.exe
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\bin\Debug\net5.0\ExDictionary.deps.json
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\bin\Debug\net5.0\ExDictionary.runtimeconfig.json
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\bin\Debug\net5.0\ExDictionary.runtimeconfig.dev.json
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\bin\Debug\net5.0\ExDictionary.dll
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\bin\Debug\net5.0\ref\ExDictionary.dll
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\bin\Debug\net5.0\ExDictionary.pdb
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\obj\Debug\net5.0\ExDictionary.csproj.AssemblyReference.cache
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\obj\Debug\net5.0\ExDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\obj\Debug\net5.0\ExDictionary.AssemblyInfoInputs.cache
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\obj\Debug\net5.0\ExDictionary.AssemblyInfo.cs
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\obj\Debug\net5.0\ExDictionary.csproj.CoreCompileInputs.cache
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\obj\Debug\net5.0\ExDictionary.dll
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\obj\Debug\net5.0\ref\ExDictionary.dll
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\obj\Debug\net5.0\ExDictionary.pdb
+C:\Users\dipeo\source\repos\ExDictionary\ExDictionary\obj\Debug\net5.0\ExDictionary.genruntimeconfig.cache
